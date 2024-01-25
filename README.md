@@ -14,7 +14,7 @@ c. meet academia and industry needs
 
 d. increase student outreach and engagement
 
-**PROBLEM STATEMENT **
+**PROBLEM STATEMENT**
 How can we develop a cybersecurity program that engages students, IS department faculty, and industry professionals?
 
 **SOLUTION**
